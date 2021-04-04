@@ -1,12 +1,28 @@
-<style>
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
+body{
+    background: #000;
 }
-p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
+tr>td{
+    color: whitesmoke;
 }
-</style>
+b>i{
+    color: green;
+}
+.a1{
+    position: relative;
+} 
+.a2 img{
+    max-width: 100%;
+    height: auto;
+} 
+.fa-television{
+    color: green;
+}
+.fa-hourglass-start{
+    color: green;
+}
+.fa-database{
+    color: green;
+}
+.fa-shield{
+    color: green;
+}
