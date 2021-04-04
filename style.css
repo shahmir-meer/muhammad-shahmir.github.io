@@ -1,8 +1,8 @@
 body{
-    background: #000;
+    background: rgb(0, 0, 0);
 }
 tr>td{
-    color: whitesmoke;
+    color: white;
 }
 b>i{
     color: green;
@@ -26,3 +26,49 @@ b>i{
 .fa-shield{
     color: green;
 }
+{
+    margin: 3%;
+    position: relative;
+}
+
+.first-txt {
+    position: relative;
+    bottom: 247px;
+    left: 237px;
+    
+}
+
+    .second-txt {
+        position: absolute;
+        bottom: 200px;
+        left: 277px;
+        color: rgb(8, 173, 8);
+        
+    } 
+    .fa {
+        padding: 10px;
+        font-size: 20px;
+        width: 10px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .fa-facebook {
+        background: #3B5998;
+        color: white;
+        position: absolute;
+        bottom: 177px;
+        left: 310px;
+
+      }
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+        position: absolute;
+        bottom: 177px;
+        left: 347px;
+      }
+     
+
+
+      
