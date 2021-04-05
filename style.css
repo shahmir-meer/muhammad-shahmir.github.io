@@ -34,14 +34,14 @@ b>i{
 .first-txt {
     position: relative;
     bottom: 247px;
-    left: 237px;
+    left: 227px;
     
 }
 
     .second-txt {
         position: absolute;
         bottom: 200px;
-        left: 277px;
+        left: 267px;
         color: rgb(8, 173, 8);
         
     } 
@@ -58,7 +58,7 @@ b>i{
         color: white;
         position: absolute;
         bottom: 177px;
-        left: 310px;
+        left: 280px;
 
       }
       .fa-twitter {
@@ -66,9 +66,15 @@ b>i{
         color: white;
         position: absolute;
         bottom: 177px;
-        left: 347px;
+        left: 317px;
       }
-     
+     .fa-whatsapp {
+         background: green;
+         color: white;
+         position: absolute;
+         bottom: 177px;
+         left: 357px;
+     }
 
 
       
