@@ -1,5 +1,5 @@
 body{
-    background: rgb(0, 0, 0);
+    background: rgb(145, 139, 139);
 }
 tr>td{
     color: white;
@@ -52,29 +52,45 @@ b>i{
         text-align: center;
         text-decoration: none;
     }
-
-    .fa-facebook {
-        background: #3B5998;
-        color: white;
-        position: absolute;
-        bottom: 177px;
-        left: 280px;
-
-      }
-      .fa-twitter {
-        background: #55ACEE;
-        color: white;
-        position: absolute;
-        bottom: 177px;
-        left: 317px;
-      }
+     
+.fa-facebook {
+    
+    color:white;
+    position: absolute;
+    bottom: 177px;
+    left: 240px;
+  }
+  
+  
+  .fa-twitter {
+   
+    color:white;
+    position: absolute;
+    bottom: 177px;
+    left: 280px;
+  }
      .fa-whatsapp {
-         background: green;
-         color: white;
+        
+         color:rgb(255, 255, 255);
          position: absolute;
          bottom: 177px;
-         left: 357px;
+         left: 320px;
      }
+     .fa-instagram {
+       
+        color: white;
+        position: absolute;
+        bottom: 177px;
+        left: 360px;
+      }
+      .fa-snapchat-ghost {
+       
+        color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        position: absolute;
+        bottom: 177px;
+        left: 400px;
 
-
-      
+      }
+    
+  
